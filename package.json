@@ -1,0 +1,14 @@
+{
+    "name": "@brunomon/sacaedad",
+    "version": "2.0.1",
+    "description": "Obtiene la edad a partir de una fecha",
+    "license": "MIT",
+    "repository": "brunomon/sacaedad",
+    "main": "index.js",
+    "keywords": [
+      "sacaedad",
+      "npm",
+      "package",
+      "brunomon"
+    ]
+  }
